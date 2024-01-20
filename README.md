@@ -4,7 +4,7 @@
 ![I am a Flutter Developer.](https://media.licdn.com/dms/image/D5616AQFNKutx1jxjHA/profile-displaybackgroundimage-shrink_350_1400/0/1701176804317?e=1706745600&v=beta&t=nTeYjjLRZkHyNwCW56ApzeNSPC2QqyQgBAiS5QZiAHQ)
 
 *Overview:
-This Flutter project, crafted by Hasan, is a [brief description of the project's purpose and functionality]. Whether you're a Flutter enthusiast or a newcomer, explore the features and functionalities that make this project unique.
+This Flutter project, crafted by Hasan. Whether you're a Flutter enthusiast or a newcomer, explore the features and functionalities that make this project unique.
 Technologies Used:
 Flutter
 Dart
