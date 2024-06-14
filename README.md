@@ -8,9 +8,9 @@ This Flutter project, crafted by Hasan. Whether you're a Flutter enthusiast or a
 Technologies Used:
 Flutter
 Dart
-[Any additional technologies, libraries, or frameworks used.
+[Any additional technologies, libraries, or frameworks used.]
 
-Skills: Dart / Flutter
+Skills: Dart / Flutter / C++
 
 - 🔭 I’m currently working on Fiverr,Upwork,Facebook. 
 - 🌱 I’m currently learning C.
