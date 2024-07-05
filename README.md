@@ -4,7 +4,7 @@
 ![I am a Flutter Developer.]([https://media.licdn.com/dms/image/D5616AQFWZ2bWm1SxzQ/profile-displaybackgroundimage-shrink_350_1400/0/1706808334889?e=1725494400&v=beta&t=-hrQro2L5vSMYY5rSmvz5S8uWKW4NZN6dcTWsGQHw4A](https://www.facebook.com/photo/?fbid=707789341446205&set=a.109230407968771))
 
 *Overview:
-I am Hassan a junior flutter developer. I have done various projects with flutter,
+I am Hasan a junior flutter developer. I have done various projects with flutter,
 Technologies Used:
 Flutter
 Dart
