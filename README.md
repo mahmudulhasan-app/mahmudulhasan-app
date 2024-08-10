@@ -12,6 +12,8 @@ Dart
 
 Skills: Dart / Flutter / C++
 
+🌱 I’m currently learning ...
+
 - 🔭 I’m currently working on Fiverr,Upwork,Facebook. 
 - 👯 I’m looking to collaborate on FaceBook
 
