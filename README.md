@@ -2,7 +2,7 @@
 
 ### I am a Flutter Developer.
 
-*I am a frotend Developer
+*I am a frontend Developer
 
 *Overview:
 I am Hasan a junior flutter developer. I have done various projects with flutter,
