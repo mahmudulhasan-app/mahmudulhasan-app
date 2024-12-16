@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">*I am a frontend Developer *Overview: I am Hasan a junior flutter developer. I have done various projects with flutter, Technologies Used: Flutter Dart [Any additional technologies, libraries, or frameworks used.]</h3>
+<h3 align="center">*I am a frontend Developer 
+  *Overview: I am Hasan a junior flutter developer. I have done various projects with flutter, Technologies Used: Flutter Dart [Any additional technologies, libraries, or frameworks used.]</h3>
 
 - 🔭 I’m currently working on **Food Leap**
 
