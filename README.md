@@ -2,8 +2,6 @@
 <h3 align="center">*I am a frontend Developer 
   *Overview: I am Hasan a junior flutter developer. I have done various projects with flutter, Technologies Used: Flutter Dart [Any additional technologies, libraries, or frameworks used.]</h3>
 
-- 🔭 I’m currently working on **Food Leap**
-
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **FaceBook**
