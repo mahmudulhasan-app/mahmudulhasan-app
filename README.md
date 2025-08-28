@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I’m currently Student<br>🌱 I’m currently learning Data structure<br>👯 I’m looking to collaborate on LinkedIn <br>📫 How to reach me dev.hasan715@gmail.com
+🧑‍🎓 I’m currently Student<br>🌱 I’m currently learning Algorithm<br>👯 I’m looking to collaborate on LinkedIn <br>📫 How to reach me dev.hasan715@gmail.com
 
 
 ## 🌐 Socials:
