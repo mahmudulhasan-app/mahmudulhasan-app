@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi! I am Mahmudul Hasan. I am a Software Developer
+##😊Hi! I am Mahmudul Hasan. I am a Software Developer
+##স্যার গো ও বড় ভাই দেড় হাতে ঝাড়ি খাওয়া জুনিয়র ডেভেলপার । বর্তমান এ বাইটক্যাম্প এ কামলাখাটা একজন প্রধান পরিচালন কর্মকর্তা ।😬
 🧑‍🎓 I’m currently Student<br>🌱 I’m currently learning Algorithm<br>👯 I’m looking to collaborate on LinkedIn <br>📫 How to reach me dev.hasan715@gmail.com
 
 
