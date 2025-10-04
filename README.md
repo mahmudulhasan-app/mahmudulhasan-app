@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## আমি মাহমুদুল হাসান | বর্তমান এ বাইটক্যাম্প এ কামলাখাটা একজন Cheif Operating Officer ।😬
 
-🧑‍🎓 I’m currently Student<br>🌱 I’m currently learning Algorithm<br>👯 I’m looking to collaborate on LinkedIn <br>📫 How to reach me dev.hasan715@gmail.com
+🧑‍🎓 I’m currently Student<br>🌱 I’m currently learning ML<br>👯 I’m looking to collaborate on LinkedIn <br>📫 How to reach me dev.hasan715@gmail.com
 
 
 ## 🌐 Socials:
