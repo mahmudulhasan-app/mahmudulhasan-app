@@ -2,9 +2,9 @@
 <p align="center">
   <picture>
     <!-- DARK MODE -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=FFFFFF&center=true&vCenter=true&width=700&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=FFFFFF&center=true&vCenter=true&width=700&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan" />
     <!-- LIGHT MODE -->
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=000000&center=true&vCenter=true&width=700&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=5000&color=000000&center=true&vCenter=true&width=700&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan" />
     <img alt="Typing Header" />
   </picture>
 </p>
